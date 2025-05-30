@@ -3,13 +3,22 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Page.goto('HELLO!');</h1></summary>
 </div>
-
+    
+###
 <!-- Pac-Man -->
-<img src="https://raw.githubusercontent.com/Meydex/Meydex/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meydex/Meydex/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meydex/Meydex/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Meydex/Meydex/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-###
+
+
+
+
 
 
 <!-- Presentation -->
