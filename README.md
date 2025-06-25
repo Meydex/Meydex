@@ -51,6 +51,7 @@
 - [RealWorld Api Backend(em andamento)](https://github.com/Meydex/RealWorld-Backend-Qa)
 - [Automation Test Soucedemo](https://github.com/Meydex/AutomationTest-Amanon-Soucedemo)
 - [Teste Exploratório Ifood Web](https://github.com/Meydex/ifood_web_test)
+- [Cadastro de contatos - Automação de pipeline](https://github.com/Meydex/Cadastro_de_contatos_pipeline)
 
 
 ## 🔥 Skills
