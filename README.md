@@ -52,6 +52,7 @@
 - [Automation Test Soucedemo](https://github.com/Meydex/AutomationTest-Amanon-Soucedemo)
 - [Teste Exploratório Ifood Web](https://github.com/Meydex/ifood_web_test)
 - [Cadastro de contatos - Automação de pipeline CI](https://github.com/Meydex/Cadastro_de_contatos_pipeline)
+- [Teste Manual e report de Bug Intermitente](https://github.com/Meydex/Bug-intermitente-report-no-site-gupy)
 
 
 ## 🔥 Skills
@@ -86,7 +87,7 @@
   </div>
 
   <div align="center">
-  <img src="https://profile-counter.glitch.me/Meydex/count.svg?"  />
+  <img src="https://profile-counter.deno.dev/:Meydex:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
   
